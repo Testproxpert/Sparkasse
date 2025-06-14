@@ -1,5 +1,5 @@
 # Sparkasse Web Testing Automation
- 
+
 ## Project Overview
 Automated test suite for the Sparkasse web application focusing on:
 - Login
