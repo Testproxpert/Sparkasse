@@ -2,11 +2,11 @@
 
 **Project:** Sparkasse Web Testing
 
-**Date:** [Insert Date]
+**Date:** [16.06.2025]
 
 **Tested Feature:** [Login / Balance / Transfer]
 
-**Environment:** [Browser, OS, Version]
+**Environment:** [iOS & Windows]
 
 **Steps to Reproduce:**
 1. 
