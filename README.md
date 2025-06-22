@@ -30,7 +30,7 @@ cd sparkasse-web-testing
 2. Create a virtual environment and install dependencies:
 ```bash
 python -m venv venv
-source venv/bin/activate  # Linux/macOS
+source venv/bin/activate  # MacOS
 venv\Scripts\activate   # Windows
 pip install -r requirements.txt
 ```
